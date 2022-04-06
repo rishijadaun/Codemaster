@@ -4,3 +4,6 @@
 
 # Bootstrap 5 used with fast loading time and lightweightt wordpress theme
 
+### No JQuery used
+### Fully Responsive
+
