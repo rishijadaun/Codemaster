@@ -1,4 +1,4 @@
-# Codemaster
+# Codemaster Wordpress Theme
 
 Codemaster is a fast, lightweight, fully customisable & beautiful WordPress theme suitable for blog, personal portfolio, IT, business website and SEO Agency. Organizations and businesses. It is jquery free theme with good page speed score.
 
